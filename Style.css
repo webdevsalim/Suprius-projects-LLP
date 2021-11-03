@@ -291,7 +291,7 @@ a {
 @media (max-width: 768px) {
     .container .slider .slide .caption {
         position: absolute;
-        bottom: 60px;
+        bottom: 100px;
         left: 20px;
         right: 20px;
         padding: 20px;
